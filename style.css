@@ -1,1 +1,13 @@
 /* this is css (I will use tailwind as well) */
+body
+{
+	text-align: center;
+
+}
+
+#board
+{
+	background-color: black;
+	border-top: 7px solid lightgray;
+	border-bottom: 7px solid lightgray;
+}
