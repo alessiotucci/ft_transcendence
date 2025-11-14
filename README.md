@@ -5,10 +5,12 @@ Surprise. This is the last project, a SPA web-app with a little pong game. Nothi
 
 ### Web
 `Minor module:` Use a framework or a toolkit to build the frontend.
+
 `Minor module:` Use a database for the backend.
 
 ### User Management
 `Major module:` Standard user management, authentication, users across tournaments.
+
 `Major module:` Implementing a remote authentication.
 
 ### Gameplay and user experience
@@ -19,6 +21,7 @@ Surprise. This is the last project, a SPA web-app with a little pong game. Nothi
 
 ### Cybersecurity
 `Minor module:` GDPR compliance options with user anonymization, local data management, and Account Deletion.
+
 `Major module:` Implement Two-Factor Authentication (2FA) and JWT.
 
 ## Devops 
