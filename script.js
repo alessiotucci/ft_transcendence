@@ -1,4 +1,7 @@
 // this is JavaScript, we will change it to typescript later on
+
+//TODO: add a timer, a winning and a login and clean up the codebase
+
 //first make it work
 let board;
 let boardWidth = 500;

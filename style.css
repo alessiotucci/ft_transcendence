@@ -5,8 +5,11 @@ body
 
 }
 
+
+/*TODO: make it responsive and implement SPA*/
 #board
 {
+	/*display: none; /* canvas hidden initially */
 	background-color: black;
 	border-top: 7px solid lightgray;
 	border-bottom: 7px solid lightgray;
